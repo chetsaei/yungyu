@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Hello GitHub Pages!</h1>
+  <h1>안녕하세요 윤규!</h1>
   <p>yungyu</p >
 </body>
 </html>
